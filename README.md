@@ -9,4 +9,5 @@ Gates, on the other hand,  are components with one or more input pins and only o
 program preview:
 
 ![image](https://user-images.githubusercontent.com/84231705/155397899-819c2dde-6293-46da-a831-a9a16f100db5.png)
+![image](https://user-images.githubusercontent.com/84231705/155401922-e12e5f71-9fb5-4355-820f-159f60e3f425.png)
 
